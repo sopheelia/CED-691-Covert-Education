@@ -1,0 +1,69 @@
+body {
+  background-color: lightcyan;
+  color: #fff;
+  padding: 25px;
+  font-family: Verdana;
+}
+
+h1, title {
+  background-color: skyblue;
+  text-align: center;
+  padding: 50px;
+}
+
+p, blurb, li, h3 {
+  background-color: skyblue;
+  text-align: center;
+  padding: 10px;
+}
+
+th, directory {
+  background-color: skyblue;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+h5, escape {
+  z-index: 10;
+  position: sticky;
+  top: 8px;
+  right: 16px;
+  background-color: #61828A;
+  text-align: right;
+}
+
+table, directory {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a:hover {
+    color:#00A0C6; 
+    text-decoration:none; 
+    cursor:pointer;
+}
+
+h2 {
+  background-color: skyblue;
+  padding: 10px;
+}
+
+hr {
+  border: 10px solid #61828A;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

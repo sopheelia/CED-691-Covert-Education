@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Covert Education</title>
+  <link href="style.css" rel="stylesheet">
+</head>
+<body>
+   <h5 id="escape"><a href="https://www.google.com">Click on me if you need to get off this website quickly!</a></h5>
+    <h1 id="title"><a href="index.html">Covert Education</a></h1>
+  <p id="blurb">Does your school provide unhelpful information about sex and sexuality? Hopefully this website can answer some of your questions!</p>
+  <table id="Directory">
+    <thead>
+      <th id="About"><a href="about.html">About Us</a></th>
+       <th id="Consent"><a href="consent.html">Consent</a></th>
+      <th id="Anecdote"><a href="anecdote.html">Anecdotal Experiences</a></th>
+      <th id="Anatomy"><a href="anatomy.html">Anatomy</a></th>
+      <th id="Glossary"><a href="glossary.html">Glossary</a></th>
+      <th id="Resources"><a href="resources.html">References</a></th>
+    </thead>
+  </table>
+  <br>
+  <hr>
+  <h2>Anatomy</h2>
+  <hr>
+    <p>Male Anatomy</p>
+      <p>Penis: the male sexual organ. When a person is stimulated, or turned on, the penis fills with blood. This is known as an erection, or when the penis is “hard.” Some penises are circumcised, meaning that they had their foreskin removed, but not all penises are.</p>
+      <p>External Parts of the Penis</p>
+        <img src="https://i.imgur.com/eo7mCGp.png" height="300" width="300" class="center">
+        <p> Glans: the tip/head of the penis, including the opening of the bladder, the urethra, when pee/urine and semen leave the body. This is the most sensitive part of the penis for some people. <br><br>
+Shaft: the part of the penis from the glans to where it connects to the body <br><br>
+Scrotum: also known as the ballsack, it is the sack of skin that holds the testicles and hangs below the penis. Being a really sensitive area, the skin is covered in hair and wrinkles.</p>
+<p>Internal Parts of the Penis/Area</p>
+      <img src="https://i.imgur.com/zfGf6Wa.png" height="300" width="300" class="center">
+        <p> Balls (Testicles): glands inside of the scrotum that produce sperm and hormones 
+ <br><br>
+Urethra: tube inside the penis that carries pee/urine, pre-ejaculate, and semen to the urethral opening at the tip of the penis.
+ <br><br>
+Seminal Vesicles: two small organs located below the bladder that produce semen, which is the fluid that contains sperm. <br><br> Bladder: organ that holds pee/urine
+</p>
+<hr>
+<p>Female Anatomy</p>
+<p>Vulva: comprises the entire female pubic area, including the vagina, clitoris, and labia.<br><br>Vagina: a stretchy, muscular tube through which menstrual blood and babies leave the body, and expands when someone is stimulated, or turned on. This is also where you can insert a tampon, a partner’s penis, fingers, or sex toys.</p>
+<p>External Parts of the Vagina</p>
+      <img src="https://i.imgur.com/QjHbiCr.png" height="300" width="300" class="center">
+<p>Labia (Inner & Outer Lips): two folds of skin, or lips, around your vaginal opening - the outer labia (labia majora) and the inner labia (labia minora). These folds protect the opening of the Vagina and the bladder.<br><br>
+Clitoris: the clitoris is located at the top of the vulva and the tip is covered by the clitoral hood. The clitoris is responsible for sexual pleasure, and can be stimulated during sex or masturbation.<br><br>
+Urethral Opening: the hole that urine or pee comes out of<br><br>
+Vaginal opening: the hole that menstrual blood and babies leave the body. This is also the hole that you can insert a tampon/menstrual cup and a partner’s penis, fingers, or sex toys.</p>
+<p>Internal Parts of the Vagina/Area</p>
+      <img src="https://i.imgur.com/oFsLJQn.png" height="300" width="300" class="center">
+<p>Cervix: this divides the vagina and the uterus, with a small hole through which menstrual blood is released. Since the hole of the uterus is so small, tampons and other objects can’t pass through or get lost in the uterus. <br><br>
+Uterus: a muscular organ where a fetus grows during pregnancy.
+Fallopian tubes: two tubes, one on each side of the uterus, where the egg travels from the ovaries to the uterus.<br><br>
+Ovaries: these store your eggs, produce hormones that control your menstrual cycle, and after puberty begins, release an egg once a month.
+</p>
+</body>
+</html>
